@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Saida
+  - Medalha
+  - MedalhaM
+  - MedalhaD
+  - MedalhaR
+  - Louis
+  - Mei Hua
+  - Abby
+  - Frederico
+  - Stefani
+  - Akio
+  - Arabella
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - City_Walls
+  - City_Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 942862205
+    locked: 0
+  - name: Effects
+    uniqueID: 1994913823
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 758965077
+    locked: 0
+  - name: WallAssets
+    uniqueID: 2860082931
+    locked: 0
